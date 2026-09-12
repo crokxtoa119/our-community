@@ -1,2 +1,2 @@
 # our-community
-Community discussions and feedback for First PrizeGames
+Community discussions and feedback
